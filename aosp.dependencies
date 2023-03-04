@@ -1,0 +1,13 @@
+[
+  {
+    "repository":  "android_kernel_asus_sdm660",
+    "target_path": "kernel/asus/sdm660",
+    "branch": "lineage-20"
+  }
+
+  {
+    "repository": "vendor_asus_X00TD",
+    "target_path": "vendor/asus/X00TD",
+    "branch": "lineage-20"
+  }
+]
